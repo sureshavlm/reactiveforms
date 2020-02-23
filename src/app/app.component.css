@@ -1,0 +1,10 @@
+
+.is-invalid {
+	border: solid 1px red;
+	background-color: red;
+	font-size: 32px;
+}
+
+.invalid-feedback {
+	color: red;
+}
